@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Simple Website</title>
+  <title>CHALO MAINE KR HI DIYA</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -21,7 +21,7 @@
 </head>
 <body>
   <h1>Welcome to My Simple Website!</h1>
-  <p>This is just a basic webpage with some simple text and styling. You can add more content, images, links, and other elements to customize it further.</p>
+  <p>TIME 3:15 OR MAINE YE TASK KR HI DIYA .. MUSKIL THA PAR HO GYA .. BACCHE OR UNCLE SO RHE HAI .. PAR CHALO SONE DO INKO BHI ..MAI BHI SIGGI PI K SO JATA HU.. GUD NIGHT</p>
   <ul>
     <li>A list of items</li>
     <li>Another item in the list</li>
